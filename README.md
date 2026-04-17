@@ -10,11 +10,11 @@
 
 
 
-**🚀 Projects Included**
+**🚀 Projects Included**:
 
 
 
-&#x20;**1. Dynamic Knowledge Base Chatbot**
+&#x20;**1. Dynamic Knowledge Base Chatbot**:
 
 
 
@@ -26,7 +26,7 @@
 
 
 
-&#x20;**2. Multi-Modal Chatbot (Text + Image)**
+&#x20;**2. Multi-Modal Chatbot (Text + Image)**:
 
 
 
@@ -38,7 +38,7 @@
 
 
 
-&#x20;**3. Medical Q\&A Chatbot**
+&#x20;**3. Medical Q\&A Chatbot**:
 
 
 
@@ -50,7 +50,7 @@
 
 
 
-&#x20;**4. arXiv Expert Chatbot**
+&#x20;**4. arXiv Expert Chatbot**:
 
 
 
@@ -62,7 +62,7 @@
 
 
 
-&#x20;**5. Sentiment-Aware Chatbot**
+&#x20;**5. Sentiment-Aware Chatbot**:
 
 
 
@@ -74,7 +74,7 @@
 
 
 
-&#x20;**6. Multilingual Chatbot**
+&#x20;**6. Multilingual Chatbot**:
 
 
 
@@ -86,7 +86,7 @@
 
 
 
-&#x20;**🧠 Tech Stack**
+&#x20;**🧠 Tech Stack**:
 
 
 
@@ -106,7 +106,7 @@
 
 
 
-&#x20;**📁 Project Structure**
+&#x20;**📁 Project Structure**:
 
 
 
@@ -152,7 +152,7 @@
 
 
 
-**⚙️ Setup Instructions**
+**⚙️ Setup Instructions**:
 
 
 
@@ -230,7 +230,7 @@
 
 
 
-**📊 Datasets**
+**📊 Datasets**:
 
 
 
@@ -250,7 +250,7 @@
 
 
 
-&#x20;**🎯 Key Learnings**
+&#x20;**🎯 Key Learnings**:
 
 
 
@@ -268,7 +268,7 @@
 
 
 
-**📌 Future Improvements**
+**📌 Future Improvements**:
 
 
 
@@ -284,7 +284,7 @@
 
 
 
-&#x20;**👨‍💻 Author**
+&#x20;**👨‍💻 Author**:
 
 
 
