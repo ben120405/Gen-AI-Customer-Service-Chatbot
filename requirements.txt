@@ -1,0 +1,21 @@
+Core:
+python-dotenv
+streamlit
+
+LangChain & Vector DB:
+langchain
+langchain-community
+langchain-huggingface
+faiss-cpu
+
+Embeddings:
+sentence-transformers
+
+Data handling:
+pandas
+
+Scheduling:
+schedule
+
+Utilities:
+tqdm

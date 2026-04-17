@@ -1,0 +1,27 @@
+Core
+python-dotenv==1.0.1
+pandas==2.2.2
+numpy==1.26.4
+
+Streamlit UI
+streamlit==1.35.0
+
+LangChain (stable compatible versions)
+langchain==0.2.14
+langchain-core==0.2.36
+langchain-community==0.2.12
+
+Embeddings
+sentence-transformers==2.7.0
+
+HuggingFace embeddings (NEW package)
+langchain-huggingface==0.0.3
+
+Vector DB
+faiss-cpu==1.7.4
+
+XML processing
+lxml==5.2.2
+
+Utilities
+tqdm==4.66.4
