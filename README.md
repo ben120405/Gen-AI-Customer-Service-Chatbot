@@ -26,6 +26,7 @@
 
 
 
+
 &#x20;**2. Multi-Modal Chatbot (Text + Image)**:
 
 
@@ -35,6 +36,7 @@
 **\* Uses \*\*Gemini API for multimodal understanding\*\***
 
 **\* Built with \*\*Streamlit UI\*\***
+
 
 
 
@@ -50,6 +52,7 @@
 
 
 
+
 &#x20;**4. arXiv Expert Chatbot**:
 
 
@@ -59,6 +62,7 @@
 **\* Explains complex scientific topics**
 
 **\* Uses \*\*RAG pipeline for knowledge retrieval\*\***
+
 
 
 
@@ -74,6 +78,7 @@
 
 
 
+
 &#x20;**6. Multilingual Chatbot**:
 
 
@@ -83,6 +88,7 @@
 **\* Performs \*\*language detection + translation\*\***
 
 **\* Provides responses in user's preferred language**
+
 
 
 
@@ -103,6 +109,7 @@
 **\* \*\*Streamlit\*\***
 
 **\* \*\*Pandas / NumPy\*\***
+
 
 
 
@@ -147,6 +154,7 @@
 **├── README.md**
 
 **└── .env.example**
+
 
 
 
@@ -230,6 +238,7 @@
 
 
 
+
 **📊 Datasets**:
 
 
@@ -245,6 +254,7 @@
 **\* MedQuAD → https://github.com/abachaa/MedQuAD**
 
 **\* arXiv Dataset → https://www.kaggle.com/datasets/Cornell-University/arxiv**
+
 
 
 
@@ -268,6 +278,7 @@
 
 
 
+
 **📌 Future Improvements**:
 
 
@@ -279,6 +290,7 @@
 **\* Add authentication system**
 
 **\* Improve UI/UX**
+
 
 
 
