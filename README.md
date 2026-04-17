@@ -1,6 +1,6 @@
-# 🤖 AI Chatbot Suite (Internship Projects)
+# 🤖 Gen-AI-Customer Service Chatbot
 
-A collection of **6 AI-powered chatbot systems** built during my internship, covering real-world applications of **Generative AI, NLP, and RAG (Retrieval-Augmented Generation)**.
+A collection of **6 AI-powered chatbot systems** , covering real-world applications of **Generative AI, NLP, and RAG (Retrieval-Augmented Generation)**.
 
 ---
 
@@ -173,7 +173,6 @@ You can download from:
 ## 👨‍💻 Author
 
 **Benin Dbritto**
-AI & Machine Learning Enthusiast
 
 ---
 
